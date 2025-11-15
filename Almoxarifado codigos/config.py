@@ -1,0 +1,7 @@
+COR_FUNDO = "#1E1E1E"
+COR_TEXTO = "#FFFFFF"
+COR_BOTAO = "#2D89EF"
+COR_ERRO = "#FF4C4C"
+
+WINDOW_TITLE = "Sistema de Almoxarifado"
+WINDOW_SIZE = "500x400"
